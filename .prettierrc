@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "proseWrap": "always",
+  "singleAttributePerLine": true,
+  "endOfLine": "auto",
+  "plugins": ["prettier-plugin-organize-imports"]
+}
